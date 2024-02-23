@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": "150",
+      "rating": "5",
+      "featured": false,
+      "id": 2
+    },
+    {
+      "name": "Milk and honey",
+      "author": "Jihad",
+      "thumbnail": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "200",
+      "rating": "5",
+      "featured": true,
+      "id": 5
+    },
+    {
+      "name": "MD. JIHAD HOSSAIN",
+      "author": "Jihad",
+      "thumbnail": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "2125",
+      "rating": "5",
+      "featured": true,
+      "id": 6
+    },
+    {
+      "name": "MD. JIHAD HOSSAIN",
+      "author": "Jihad",
+      "thumbnail": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "500",
+      "rating": "5",
+      "featured": true,
+      "id": 7
+    }
+  ]
+}
